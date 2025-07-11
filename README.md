@@ -12,7 +12,7 @@
 - **[02_terms.md](02_terms.md)** - Словарь терминов и определений
 - **[integrations.md](integrations.md)** - Интеграции между учетными системами
 
-### 👥 [Работа с контрагентами](#работа-с-контрагентами-counterparties)
+### [👥 Работа с контрагентами](counterparties/01_donor_entry.md)
 - **[01_donor_entry.md](counterparties/01_donor_entry.md)** - Заведение доноров в МойСклад
 - **[02_contract_approval.md](counterparties/02_contract_approval.md)** - Согласование договоров с донорами
 - **[03_contract_numbering.md](counterparties/03_contract_numbering.md)** - Правила нумерации договоров
@@ -22,7 +22,7 @@
 - **[07_communication_block.md](counterparties/07_communication_block.md)** - Коммуникационные аспекты работы
 - **[08_volunteers.md](counterparties/08_volunteers.md)** - Работа с волонтерами
 
-### 🏭 Промышленный фудшеринг (industrial_foodsharing/)
+### [🏭 Промышленный фудшеринг (industrial_foodsharing/)](industrial_foodsharing/06_readme.md)
 - **[06_readme.md](industrial_foodsharing/06_readme.md)** - Обзор промышленного фудшеринга
 - **[01_product_receipt.md](industrial_foodsharing/01_product_receipt.md)** - Приемка продукции
 - **[02_mercury.md](industrial_foodsharing/02_mercury.md)** - Работа с системой Меркурий
@@ -30,7 +30,7 @@
 - **[04_documentation_reporting_donor.md](industrial_foodsharing/04_documentation_reporting_donor.md)** - Документооборот и отчетность
 - **[05_document_control.md](industrial_foodsharing/05_document_control.md)** - Контроль отчетных документов
 
-### 🏪 Розничный фудшеринг (retail_foodsharing/)
+### [🏪 Розничный фудшеринг (retail_foodsharing/)](retail_foodsharing/README.md)
 - **[README.md](retail_foodsharing/README.md)** - Обзор розничного фудшеринга
 - **[01_terms_retail.md](retail_foodsharing/01_terms_retail.md)** - Термины и определения
 - **[02_overview_retail.md](retail_foodsharing/02_overview_retail.md)** - Обзор процесса
