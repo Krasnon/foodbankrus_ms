@@ -9,8 +9,8 @@
 ## Структура регламента
 
 ### 1. Общие разделы
-- [ ] **00_technology.md** - Технологии и принципы работы
-- [ ] **00_terms.md** - Словарь терминов "Мой склад" → "Русь"
+- [ ] **01_technology.md** - Технологии и принципы работы
+- [ ] **02_terms.md** - Словарь терминов "Мой склад" → "Русь"
 - [ ] **README.md** - Навигация и оглавление
 
 ### 2. Технологии передачи продукции
@@ -21,14 +21,14 @@
   - [ ] **10_shipment_approval.md** - Согласование отгрузки
   - [ ] **11_logistics.md** - Логистика
   - [ ] **12_shipment_coordination.md** - Координация отгрузки
-  - [ ] **13_product_receipt.md** - Приемка продукции
-  - [ ] **14_mercury.md** - Работа с Меркурием
+  - [ ] **01_product_receipt.md** - Приемка продукции
+  - [ ] **02_mercury.md** - Работа с Меркурием
   - [ ] **15_distribution_fixation.md** - Фиксация раздачи
-  - [ ] **16_product_receipt_fixation.md** - Фиксация приемки в 1С
-  - [ ] **17_documentation_nko_ro.md** - Документооборот НКО/РО
-  - [ ] **18_documentation_reporting_donor.md** - Отчетность донору
-  - [ ] **19_document_control_moysklad.md** - Контроль документов
-  - [ ] **20_communication_block.md** - Блок коммуникаций
+  - [ ] **03_product_receipt_fixation.md** - Фиксация приемки в 1С
+  - [ ] **06_documentation_nko_ro.md** - Документооборот НКО/РО
+  - [ ] **04_documentation_reporting_donor.md** - Отчетность донору
+  - [ ] **05_document_control.md** - Контроль документов
+  - [ ] **07_communication_block.md** - Блок коммуникаций
 
 #### 2.2 Розничный фудшеринг
 - [ ] **02_retail_foodsharing/** - Папка с документами
@@ -67,11 +67,11 @@
 #### 2.6 Региональные доноры
   - [ ] **01_overview.md** - Обзор технологии
   - [ ] **02_donor_validation.md** - Валидация донора
-  - [ ] **03_donor_entry_moysklad.md** - Внесение донора в систему
-  - [ ] **04_contract_approval.md** - Согласование договора
-  - [ ] **05_contract_numbering.md** - Нумерация договоров
-  - [ ] **06_contract_signing.md** - Подписание договора
-  - [ ] **07_contract_entry_moysklad.md** - Внесение договора в систему
+  - [ ] **01_donor_entry.md** - Внесение донора в систему
+  - [ ] **02_contract_approval.md** - Согласование договора
+  - [ ] **03_contract_numbering.md** - Нумерация договоров
+  - [ ] **04_contract_signing.md** - Подписание договора
+  - [ ] **05_contract_entry.md** - Внесение договора в систему
   - [ ] **08_contract_storage.md** - Хранение договоров
   - [ ] **02_regional_donor_validation.md** - Валидация регионального донора
   - [ ] **03_regional_contract_management.md** - Управление договорами
